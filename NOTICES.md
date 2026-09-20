@@ -7,6 +7,7 @@ Open-source components used by Order Matters. Each is used under the license rep
 | Factory | 3.3.2 | MIT | App |
 | FlyingFox | 0.27.1 | MIT | App |
 | goldmark | 1.8.6 | MIT | Website |
+| List of Dirty, Naughty, Obscene, and Otherwise Bad Words, English | 2026-09 | CC BY 4.0 | Relay |
 
 ## hmlongco/Factory
 
@@ -85,3 +86,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+## LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+
+The English word list by Shutterstock, Inc., from https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words, is used unmodified by the Order Matters relay to mask words in cloud tables. It is licensed under the Creative Commons Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/.
